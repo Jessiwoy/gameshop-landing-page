@@ -11,6 +11,7 @@ Esta landing page foi desenvolvida para uma loja fictícia chamada **Jess Games
  **Tecnologias Utilizadas**
 
  **HTML5**
+
  **CSS3**
 
 **Como Usar**
@@ -20,17 +21,6 @@ Esta landing page foi desenvolvida para uma loja fictícia chamada **Jess Games
     git clone https://github.com/Jessiwoy/gameshop-landing-page.git
     
 2. Abra o arquivo `index.html` no navegador para visualizar a página.
-
-**Estrutura do Projeto**
-
-Game-_Shop_Landing_Page/
-│
-├── assets/                # Imagens e outros arquivos estáticos usados no projeto
-│   └── ...                
-├── index.html             # Estrutura principal da página
-├── style.css              # Estilos da página
-└── readme.md              # Documentação do projeto
-
 
 **Contribuições**
 
