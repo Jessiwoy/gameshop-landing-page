@@ -10,16 +10,29 @@ header {
     color: #ecf0f2;
 }
 
+header h1,
+section h2 {
+    font-weight: normal;
+}
+
 header nav li {
     display: inline;
     margin-left: 16px;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 header nav li a {
     color: #ecf0f2;
     text-decoration: none;
 
+}
+header,
+section h2 {
+    font-family: "Bungee", cursive;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
 }
 
 .container {
@@ -55,6 +68,7 @@ section .container {
 
 section {
     padding: 32px 16px;
+    color: #102c61;
 }
 
 section h2 {
