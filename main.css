@@ -143,6 +143,11 @@ input:focus, textarea:focus {
     outline-color: #182c61;
 }
 
+footer {
+    background-color: #0e2552;
+    color: #ecf0f2;
+    padding: 16px 0;
+}
 
 
 
